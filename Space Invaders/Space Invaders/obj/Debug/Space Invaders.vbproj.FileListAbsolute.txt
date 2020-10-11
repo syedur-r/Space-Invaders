@@ -1,0 +1,55 @@
+G:\Programming projects\Space Invaders\Space Invaders\Space Invaders\bin\Debug\Space Invaders.exe.config
+G:\Programming projects\Space Invaders\Space Invaders\Space Invaders\bin\Debug\Space Invaders.exe
+G:\Programming projects\Space Invaders\Space Invaders\Space Invaders\bin\Debug\Space Invaders.pdb
+G:\Programming projects\Space Invaders\Space Invaders\Space Invaders\bin\Debug\Space Invaders.xml
+G:\Programming projects\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space Invaders.vbprojResolveAssemblyReference.cache
+G:\Programming projects\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space_Invaders.Resources.resources
+G:\Programming projects\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space Invaders.vbproj.GenerateResource.Cache
+G:\Programming projects\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space Invaders.exe
+G:\Programming projects\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space Invaders.xml
+G:\Programming projects\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space Invaders.pdb
+G:\Programming projects\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space_Invaders.OriginForm.resources
+E:\Programming projects\Space Invaders\Space Invaders\Space Invaders\bin\Debug\Space Invaders.exe.config
+E:\Programming projects\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space Invaders.exe
+E:\Programming projects\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space Invaders.xml
+E:\Programming projects\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space Invaders.pdb
+E:\Programming projects\Space Invaders\Space Invaders\Space Invaders\bin\Debug\Space Invaders.exe
+E:\Programming projects\Space Invaders\Space Invaders\Space Invaders\bin\Debug\Space Invaders.pdb
+E:\Programming projects\Space Invaders\Space Invaders\Space Invaders\bin\Debug\Space Invaders.xml
+E:\Programming projects\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space Invaders.vbprojResolveAssemblyReference.cache
+E:\Programming projects\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space_Invaders.OriginForm.resources
+E:\Programming projects\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space_Invaders.Resources.resources
+E:\Programming projects\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space Invaders.vbproj.GenerateResource.Cache
+G:\Programming projects (vb.net)\Space Invaders\Space Invaders\Space Invaders\bin\Debug\Space Invaders.exe.config
+G:\Programming projects (vb.net)\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space Invaders.exe
+G:\Programming projects (vb.net)\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space Invaders.xml
+G:\Programming projects (vb.net)\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space Invaders.pdb
+G:\Programming projects (vb.net)\Space Invaders\Space Invaders\Space Invaders\bin\Debug\Space Invaders.exe
+G:\Programming projects (vb.net)\Space Invaders\Space Invaders\Space Invaders\bin\Debug\Space Invaders.pdb
+G:\Programming projects (vb.net)\Space Invaders\Space Invaders\Space Invaders\bin\Debug\Space Invaders.xml
+G:\Programming projects (vb.net)\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space Invaders.vbprojResolveAssemblyReference.cache
+G:\Programming projects (vb.net)\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space_Invaders.Resources.resources
+G:\Programming projects (vb.net)\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space Invaders.vbproj.GenerateResource.Cache
+E:\Programming projects (vb.net)\Space Invaders\Space Invaders\Space Invaders\bin\Debug\Space Invaders.exe.config
+E:\Programming projects (vb.net)\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space Invaders.exe
+E:\Programming projects (vb.net)\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space Invaders.xml
+E:\Programming projects (vb.net)\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space Invaders.pdb
+G:\Programming projects (vb.net)\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space_Invaders.FrmGameState.resources
+E:\Programming projects (vb.net)\Space Invaders\Space Invaders\Space Invaders\bin\Debug\Space Invaders.exe
+E:\Programming projects (vb.net)\Space Invaders\Space Invaders\Space Invaders\bin\Debug\Space Invaders.pdb
+E:\Programming projects (vb.net)\Space Invaders\Space Invaders\Space Invaders\bin\Debug\Space Invaders.xml
+E:\Programming projects (vb.net)\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space Invaders.vbprojResolveAssemblyReference.cache
+E:\Programming projects (vb.net)\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space_Invaders.FrmGameState.resources
+E:\Programming projects (vb.net)\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space_Invaders.Resources.resources
+E:\Programming projects (vb.net)\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space Invaders.vbproj.GenerateResource.Cache
+G:\Programming projects (vb)\Space Invaders\Space Invaders\Space Invaders\bin\Debug\Space Invaders.exe.config
+G:\Programming projects (vb)\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space Invaders.exe
+G:\Programming projects (vb)\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space Invaders.xml
+G:\Programming projects (vb)\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space Invaders.pdb
+G:\Programming projects (vb)\Space Invaders\Space Invaders\Space Invaders\bin\Debug\Space Invaders.exe
+G:\Programming projects (vb)\Space Invaders\Space Invaders\Space Invaders\bin\Debug\Space Invaders.pdb
+G:\Programming projects (vb)\Space Invaders\Space Invaders\Space Invaders\bin\Debug\Space Invaders.xml
+G:\Programming projects (vb)\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space Invaders.vbprojResolveAssemblyReference.cache
+G:\Programming projects (vb)\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space_Invaders.FrmGameState.resources
+G:\Programming projects (vb)\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space_Invaders.Resources.resources
+G:\Programming projects (vb)\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space Invaders.vbproj.GenerateResource.Cache

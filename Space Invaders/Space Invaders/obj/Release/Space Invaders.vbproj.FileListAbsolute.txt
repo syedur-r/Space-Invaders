@@ -1,0 +1,11 @@
+G:\Programming projects (vb)\Space Invaders\Space Invaders\Space Invaders\bin\Release\Space Invaders.exe.config
+G:\Programming projects (vb)\Space Invaders\Space Invaders\Space Invaders\bin\Release\Space Invaders.exe
+G:\Programming projects (vb)\Space Invaders\Space Invaders\Space Invaders\bin\Release\Space Invaders.pdb
+G:\Programming projects (vb)\Space Invaders\Space Invaders\Space Invaders\bin\Release\Space Invaders.xml
+G:\Programming projects (vb)\Space Invaders\Space Invaders\Space Invaders\obj\Release\Space Invaders.vbprojResolveAssemblyReference.cache
+G:\Programming projects (vb)\Space Invaders\Space Invaders\Space Invaders\obj\Release\Space_Invaders.FrmGameState.resources
+G:\Programming projects (vb)\Space Invaders\Space Invaders\Space Invaders\obj\Release\Space_Invaders.Resources.resources
+G:\Programming projects (vb)\Space Invaders\Space Invaders\Space Invaders\obj\Release\Space Invaders.vbproj.GenerateResource.Cache
+G:\Programming projects (vb)\Space Invaders\Space Invaders\Space Invaders\obj\Release\Space Invaders.exe
+G:\Programming projects (vb)\Space Invaders\Space Invaders\Space Invaders\obj\Release\Space Invaders.xml
+G:\Programming projects (vb)\Space Invaders\Space Invaders\Space Invaders\obj\Release\Space Invaders.pdb
